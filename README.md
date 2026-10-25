@@ -8,7 +8,7 @@
 <br/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,c,django,fastapi,java" />
+<img src="https://skillicons.dev/icons?i=python,c,django,fastapi,java,php,laravel" />
 
 <br/>
 
